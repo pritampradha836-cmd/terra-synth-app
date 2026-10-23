@@ -1,0 +1,6 @@
+{
+  "name": "TERRA-SYNTH: Procedural Frontier",
+  "description": "An infinite procedural action-adventure game with dynamic biomes, 60fps combat, and an integrated real-time data science engine optimization workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
